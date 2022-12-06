@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -  <p align="left"> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="c" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>      
 - 😄 Enthusiast of cloud, Data Analytic many more..           
 - 💬 Ask me about Web, Android Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/satish603/) / [Gmail](mailto:satishchauhan603@gmail.com) / [Instagram](https://www.instagram.com/satish_603/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya-kumar-singh-b1aa4918b/) / [Gmail](mailto:adityakumar286456@gmail.com) / [Instagram](https://www.instagram.com/_aditya_kumar_singh_/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 

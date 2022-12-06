@@ -1,6 +1,6 @@
 
 <!--
-**satish603/satish603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aditya-since-2002/aditya-since-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<img src="https://visitor-badge.laobi.icu/badge?page_id=satish603.satish603">  <img src="https://img.shields.io/github/followers/satish603?label=Follow&style=social)](https://github.com/satish603">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aditya-since-2002.aditya-since-2002">  <img src="https://img.shields.io/github/followers/aditya-since-2002?label=Follow&style=social)](https://github.com/aditya-since-2002">
 
 - 🔭 I’m currently exploring Data Science 
 - 👯 I’m looking to collaborate on Serverless API
@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
-### :stars: Portfolio ➡ [Click here!](https://satishchauhan.vercel.app/)
 
 ### :trophy: My Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish603&theme=tokyonight&hide=dart">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish603&&show_icons=true&theme=tokyonight">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=satish603&show_icons=true&theme=tokyonight&fire=DD2727">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-since-2002&theme=tokyonight&hide=dart">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-since-2002&&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aditya-since-2002&show_icons=true&theme=tokyonight&fire=DD2727">
